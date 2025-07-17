@@ -1,0 +1,1 @@
+1_verify'deletePost'Functionality=true
